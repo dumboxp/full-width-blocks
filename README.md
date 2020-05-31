@@ -19,12 +19,10 @@ Upload the Full Width Blocks plugin to your Wordpress installation and activate 
 
 ### Changelog
 
-1.1
-*Release Date - 2020-05-31*
-
+1.1  
+*Release Date - 2020-05-31*  
 Renamed plugin.
 
-1.0
-*Release Date - 2020-05-25*
-
+1.0  
+*Release Date - 2020-05-25*  
 Initial verion of plugin.
