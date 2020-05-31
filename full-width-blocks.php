@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Full-Width Blocks
- * Plugin URI: https://github.com/dumboxp/wide-and-full-width
+ * Plugin Name: Full Width Blocks
+ * Plugin URI: https://github.com/dumboxp/full-width-blocks
  * Description: Enable wide and full width Gutenberg blocks of any Wordpress theme
  * Version: 1.1
  * Author: MyScope
